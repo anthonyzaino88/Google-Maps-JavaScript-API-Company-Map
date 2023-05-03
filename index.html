@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Reps Locator</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"
+      integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <!--<div class="title-container">
+      <h1 class="title">Reps Locater</h1>
+    </div>-->
+    <main>
+      <div class="reps-wrapper">
+        <div class="list-top-section">
+          <!--<img
+            src="/top-header-logo.webp"
+            alt="logo"
+            style="height: 60px; width: 50px"
+          />-->
+          <div id="search-container">
+            <div class="search-input">
+              <i class="fa fa-search"></i>
+              <input
+                type="text"
+                id="store-search"
+                name="store-search"
+                placeholder="Search by name or address"
+              />
+            </div>
+            <div class="search-input">
+              <i class="fas fa-map-marker-alt"></i>
+              <input
+                type="text"
+                id="zip-search"
+                name="zip-search"
+                placeholder="Search by zip code"
+              />
+              <button id="zip-search-button">Go</button>
+            </div>
+          </div>
+        </div>
+        <div class="reps-list-wrapper">
+          <button id="scroll-left-button" class="reps-list-button prev">
+            <i class="fas fa-chevron-left"></i>
+          </button>
+          <div id="reps-list"></div>
+          <button id="scroll-right-button" class="reps-list-button next">
+            <i class="fas fa-chevron-right"></i>
+          </button>
+        </div>
+      </div>
+
+      <div class="map-wrapper">
+        <div id="map"></div>
+      </div>
+    </main>
+    <script src="/script.js"></script>
+
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+
+    <script
+      async
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVLiZWhZT-IAkAer9aj3wo98GYLWT3iv4&libraries=places&callback=initMap"
+    ></script>
+    <script>
+      const repsList = document.getElementById("reps-list");
+      let startX, scrollLeft;
+      let isGrabbed = false;
+
+      repsList.addEventListener("mousedown", (e) => {
+        if (!isGrabbed) {
+          isGrabbed = true;
+          startX = e.pageX - repsList.offsetLeft;
+          scrollLeft = repsList.scrollLeft;
+          repsList.style.cursor = "grabbing";
+        }
+      });
+
+      repsList.addEventListener("mousemove", (e) => {
+        if (!isGrabbed) return;
+        e.preventDefault();
+        const x = e.pageX - repsList.offsetLeft;
+        const walk = (x - startX) * 2; // adjust scroll speed here
+        repsList.scrollLeft = scrollLeft - walk;
+      });
+
+      repsList.addEventListener("mouseup", () => {
+        if (isGrabbed) {
+          isGrabbed = false;
+          repsList.style.cursor = "grab";
+        }
+      });
+
+      repsList.addEventListener("mouseleave", () => {
+        if (isGrabbed) {
+          isGrabbed = false;
+          repsList.style.cursor = "grab";
+        }
+      });
+
+      // touch events for mobile devices
+      repsList.addEventListener("touchstart", (e) => {
+        if (!isGrabbed) {
+          isGrabbed = true;
+          startX = e.touches[0].pageX - repsList.offsetLeft;
+          scrollLeft = repsList.scrollLeft;
+        }
+      });
+
+      repsList.addEventListener("touchmove", (e) => {
+        if (!isGrabbed) return;
+        e.preventDefault();
+        const x = e.touches[0].pageX - repsList.offsetLeft;
+        const walk = (x - startX) * 2; // adjust scroll speed here
+        repsList.scrollLeft = scrollLeft - walk;
+      });
+
+      repsList.addEventListener("touchend", () => {
+        if (isGrabbed) {
+          isGrabbed = false;
+        }
+      });
+    </script>
+  </body>
+</html>

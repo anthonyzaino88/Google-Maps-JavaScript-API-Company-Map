@@ -1,0 +1,5648 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-113.9678524,
+                51.0138529
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 4:30am",
+                "description": "heating equipment & system",
+                "name": "ALGGIN METAL INDUSTRIES LTD",
+                "address": "4540 - 46th Ave SE Calgary AB T2B 3N7",
+                "phone": "403-255-9006",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-113.5875119,
+                53.5746458
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 4:30am, Sat 8am - 12pm",
+                "description": "Metal-Distributors",
+                "name": "ALGGIN METAL INDUSTRIES LTD",
+                "address": "12110 - 154 ST. NW EDMONTON AB T5V 1J2",
+                "phone": "780-424-0132",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.785090,
+                    49.707320
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 4:30am",
+                "description": "Wholesaler in Lethbridge, Alberta",
+                "name": "ALGGIN METAL INDUSTRIES LTD.",
+                "address": "2-560-39TH STREET N LETHBRIDGE AB T1H 6Y2",
+                "phone": "1-403-320-8732",
+                "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.789880,
+                    49.715500
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 4:30pm",
+                "description": "Wholesaler in Lethbridge, Alberta",
+                "name": "ALGGIN METAL INDUSTRIES LTD",
+                "address": "1126 - 36th St. N Lethbridge AB T1H 6X3",
+                "phone": "403-320-8732",
+                "storeid": "04"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4274201,
+                    45.5610700999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "Ventilating equipment manufacturer",
+                "name": "BL Plus",
+                "address": "135M CHEMIN DU TREMBLAY BOUCHERVILLE QC J4B 7K4",
+                "phone": "450-449-6565",
+                "storeid": "05"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5628869,
+                    43.7006984
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "Ventilation Equipment",
+                "name": "BOUTETTE & BARNETT",
+                "address": "10 RONSON DRIVE ETOBICOKE ON M9W 1B2",
+                "phone": "(416) 244-7700",
+                "storeid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.822233,
+                    43.2541477
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7:30am - 5pm",
+                "description": "Specialty chain providing a large selection of HVAC & refrigeration parts, supplies & equipment.",
+                "name": "BOUTETTE & BARNETT",
+                "address": "18 LINDEN STREET HAMILTON ON L8L 3H6",
+                "phone": "905-523-4466",
+                "storeid": "07"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1790561999999,
+                    43.017804
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7:30am - 5pm",
+                "description": "Specialty chain providing a large selection of HVAC & refrigeration parts, supplies & equipment.",
+                "name": "BOUTETTE & BARNETT",
+                "address": "1950 OXFORD STREET EAST LONDON ON N5V 2Z8",
+                "phone": "1 519-679-1770",
+                "storeid": "08"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6857287999999,
+                    43.5147264
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 5pm",
+                "description": "Specialty chain providing a large selection of HVAC & refrigeration parts, supplies & equipment.",
+                "name": "BOUTETTE & BARNETT",
+                "address":"2590 BRISTOL CIRCLE OAKVILLE ON L6H 6Z7",
+                "phone": "1 905-829-1230",
+                "storeid": "09"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9689492999999,
+                    42.2868414
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "BOUTETTE & BARNETT",
+                "address": "810 EC ROW N SERVICE ROAD WINDSOR ON N8X 3J5",
+                "phone": "519 969-4400",
+                "storeid": "10"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0076028,
+                    51.0764642
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "8am - 4pm",
+                "description": "",
+                "name": "CROSS COUNTRY PARTS DISTRIBUTORS (RESIDENTIAL PRODUCTS ONLY)",
+                "address": "2235 27TH AVE NE CALGARY AB T2E 7M4",
+                "phone": "1 403-235-5454",
+                "storeid": "11"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.862999,
+                    43.8596509
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "Chef Supply",
+                "name": "CYCLONE VENTILATION PRODUCTS INC.",
+                "address": "8 SUMMERGATE COURT CALEDON EAST ON L7C 1P9",
+                "phone": "905-584-5163",
+                "storeid": "12"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7431794,
+                    45.5917594
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "6:30am - 5:00pm",
+                "description": "Distribution service in Laval, Quebec",
+                "name": "DESCAIR INC.",
+                "address":"3175 BOUL INDUSTRIEL LAVAL QC H7L 4P8",
+                "phone": "450-670-314`",
+                "storeid": "13"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4617446,
+                    45.5738467
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "6:30am - 5:00pm",
+                "description": "",
+                "name": "DESCAIR INC.",
+                "address": "596, RUE JEAN-NEVEU LONGUEUIL QC J4G 1P1", 
+                "phone": "514-744-6751",
+                "storeid": "14"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6129669,
+                    45.5657747
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "6:30am - 5:00pm",
+                "description": "Air Conditioning Contractors, Heating, Ventilating & Air Conditioning Service,",
+                "name": "DESCAIR INC.",
+                "address": "8335 BOUL. ST-MICHEL MONTREAL QC H1Z 3E6",
+                "phone": "514-744-6751",
+                "storeid": "15"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.499078,
+                    48.45973
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7:30am-11:55am, 12:45-5pm",
+                "description": "",
+                "name": "DESCAIR INC.",
+                "address": "451 RUE DES FACONNIERS QUEBEC QC G5M 1X2",
+                "phone": "418-723-6515",
+                "storeid": "16"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7491886999999,
+                    45.4867012
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 5pm",
+                "description": "",
+                "name": "DESCAIR INC.",
+                "address": "6602 RUE VANDEN ABEELE ST LAURENT QC H4S 1Y3",
+                "phone": "514-332-3461",
+                "storeid": "17"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.682204,
+                    46.1340556
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 5pm",
+                "description": "",
+                "name": "DESCAIR INC.",
+                "address": "9550, 11E AVENUE ST-GEORGES QC G5Y 8E8",
+                "phone": "418-228-1611",
+                "storeid": "18"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.9794158,
+                    50.9548149
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 4:30am",
+                "description": "",
+                "name": "ECCO HEATING PRODUCTS.",
+                "address" : "11-11150 38th STREET, SE CALGARY AB T2C 2Z6",
+                "phone": "403-259-4344",
+                "storeid": "19"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.03698,
+                    51.11205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": " 7:00am - 4:00pm.",
+                "description": "",
+                "name": "ECCO Supply",
+                "address" : "1145 - 65TH AVENUE NE CALGARY AB T2E 8T9", 
+                "phone": "403-295-4234",
+                "storeid": "20"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.7026072,
+                    50.0176311
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "6am - 4:30pm",
+                "description": "ECCO Manufacturing™ Products, Heating Equipment, Cooling Equipment,",
+                "name": "ECCO Supply",
+                "address": "101-26 SOUTHWEST DRIVE SW MEDICINE HAT AB T1A 8V9", 
+                "phone": "403-527-3226",
+                "storeid": "21"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.934699,
+                    49.2559564
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "6am - 4:30pm",
+                "description": "",
+                "name": "ECCO Supply",
+                "address" : "7959 ENTERPRISE ST BURNABY BC V5A 1V5", 
+                "phone": "604-420-4323",
+                "storeid": "22"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9770988,
+                    49.1459291
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 4:30am",
+                "description": "",
+                "name": "ECCO",
+                "address" : "7900 EVANS ROAD, UNIT 108 CHILLIWACK BC V2R 5R8",
+                "phone": "604 426-0867",
+                "storeid": "23"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.460482,
+                    49.8804879
+
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7:30am - 4:30am",
+                "description": "",
+                "name": "ECCO Supply",
+                "address" : "100-1851 DAYTON ST. KELOWNA BC V1Y 9J7",
+                "phone": "1-250-860-6451",
+                "storeid": "24"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6763311,
+                    49.1100980999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "6am - 4:30pm",
+                "description": "HVAC contractor in Langley City, British Columbia",
+                "name": "ECCO Supply",
+                "address" : "19700 LANDMARK WAY LANGLEY BC V3A 7Z5",
+                "phone": "604-530-9755",
+                "storeid": "25"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2147409,
+                    49.916135
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 4:30pm",
+                "description": "HVAC contractor in Winnipeg, Manitoba",
+                "name": "ECCO Supply",
+                "address" : "2140 NOTRE DAME AVENUE WINNIPEG MB R3H 0K1", 
+                "phone": "204-633-9300",
+                "storeid": "26"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.279307,
+                    48.4097865
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7:30am - 5pm",
+                "description": "Heating equipment supplier in Thunder Bay, Ontario",
+                "name": "ECCO Supply",
+                "address" : "1131 CENTRAL AVE THUNDER BAY ON P7B 7C9",
+                "phone": "807-346-4464",
+                "storeid": "27"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.5603428,
+                    50.4658463
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7:30am - 4:30am",
+                "description": "Heating equipment supplier in Regina, Saskatchewan",
+                "name": "ECCO Supply",
+                "address" : "1600 ROSS AVENUE E REGINA SK S4N 7A3",
+                "phone": "306-721-8228",
+                "storeid": "28"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6528185,
+                    52.1997609
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7:30am - 4:30pm",
+                "description": "Heating equipment supplier in Saskatoon, Saskatchewan",
+                "name": "ECCO Supply",
+                "address": "311 70TH STREET, EAST SASKATOON SK S7P 0E1",
+                "phone": "306-242-5525",
+                "storeid": "29"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9970168,
+                    49.256738
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "EMCO CORPORATION",
+                "address" : "3030 BETA AVENUE BURNABY BC V5G 4K4",
+                "phone": "604-299-1353",
+                "storeid": "30"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6944693,
+                    49.175689
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "Corporate office",
+                "name": "EMCO CORPORATION",
+                "address": "19066 95A Ave SURREY BC V4N 4P2",
+                "phone": "",
+                "storeid": "31"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.5113331,
+                    48.4445702
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "EMCO CORPORATION",
+                "address": "927 DUNFORD AVE VICTORIA BC V9B 2S4",
+                "phone": "250-391-3050",
+                "storeid": "32"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.202396,
+                    49.896348
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "EMCO",
+                "address" : "669 CENTURY STREET WINNIPEG MB R3H 0L9",
+                "phone": "204-925-9630",
+                "storeid": "33"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.8310671,
+                    46.0793545
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-Thursday 7am - 5pm, Friday 7am-4:30pm",
+                "description": "Plumbing supply store in Moncton, New Brunswick",
+                "name": "EMCO",
+                "address": "1180 ST GEORGE BOULEVARD MONCTON NB E1E 4K7",
+                "phone": "506-853-1444",
+                "storeid": "34"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.8397606,
+                    47.5228142
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "8am - 5pm",
+                "description": "Plumbing supply store in Mount Pearl, Newfoundland and Labrado",
+                "name": "EMCO",
+                "address": "18 BRUCE STREET MOUNT PEARL NL A1N 4T4",
+                "phone": "709-747-0382",
+                "storeid": "35"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -63.6037537,
+                   44.705218
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 4:30pm",
+                "description": "Heating equipment supplier in Dartmouth, Nova Scotia",
+                "name": "EMCO",
+                "address" : "42B BORDEN AVENUE DARTMOUTH NS B3B 1C8",
+                "phone": "902-468-9911",
+                "storeid": "36"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7818643,
+                    43.3789515
+
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-Thursday 7am - 5pm, Friday 7am-4:30pm",
+                "description": "Plumbing supply store in Burlington, Ontario",
+                "name": "EMCO",
+                "address" : "1150 CORPORATE DRIVE BURLINGTON ON L7L 5R6",
+                "phone": "905-335-8604",
+                "storeid": "37"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.8228909,
+                    49.7900836
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7:30am - 4:30pm",
+                "description": "Plumbing supply store in Dryden, Ontario",
+                "name": "EMCO",
+                "address" : "209 SCOTT STREET DRYDEN ON P8N 3G2",
+                "phone": "807-223-7382",
+                "storeid": "38"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8455693,
+                    43.18801
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7:30am - 4:30pm",
+                "description": "Plumbing supply store in Hamilton, Ontario",
+                "name": "EMCO",
+                "address": "1660 UPPER OTTAWA, UNIT 8 HAMILTON ON L8W 3P2",
+                "phone": "905-318-5077",
+                "storeid": "39"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.2146046,
+                    42.9626093
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 4:30pm",
+                "description": "Bathroom supply store in London, Ontario",
+                "name": "EMCO",
+                "address": "944 LEATHORNE STREET LONDON ON N5Z 3M5",
+                "phone": "519-686-7340",
+                "storeid": "40"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0853796,
+                    43.1109489
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "EMCO",
+                "address" : "4300 STANLEY AVENUE NIAGARA FALLS ON L2E 6T7",
+                "phone": "905-354-7424",
+                "storeid": "41"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4892105999999,
+                    46.3249727
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "6:30am - 5:00pm",
+                "description": "HVAC contractor in North Bay, Ontario",
+                "name": "EMCO",
+                "address": "300 FEE STREET NORTH BAY ON P1B 8G5",
+                "phone": "705-476-0701",
+                "storeid": "42"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2690557,
+                    43.1485025
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 4:30pm",
+                "description": "Plumbing supply store in St. Catharines, Ontario",
+                "name": "EMCO",
+                "address": "UNIT  360 - 380 VANSICKLE ROAD ST CATHARINES ON L2S 0B5",
+                "phone": "905-354-7424",
+                "storeid": "43"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -80.9841665,
+                   46.5129895
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7:30am - 5pm",
+                "description": "Plumbing supply store in Sudbury, Ontario",
+                "name": "EMCO",
+                "address" : "878 NEWGATE AVENUE SUDBURY ON P3A 5J9",
+                "phone": "705-566-0505",
+                "storeid": "44"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2537199,
+                    48.4100145
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "EMCO CORPORATION",
+                "address": "933 TUNGSTEN STREET THUNDER BAY ON P7B 5X3",
+                "phone": "807-345-6543",
+                "storeid": "45"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3670482,
+                    48.4766194
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7:30am - 4:30pm",
+                "description": "Plumbing supply store in Timmins, Ontario",
+                "name": "EMCO",
+                "address" : "1034 POWER AVENUE TIMMINS ON P4N 3Y7",
+                "phone": "705-360-4144",
+                "storeid": "46"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                 -71.2748295,
+                 46.7998062
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "Plumber, Hardware Store, Store",
+                "name": "EMCO",
+                "address" : "380 RUE MORSE QUEBEC QC G1N 4L4",
+                "phone": "418-681-4671",
+                "storeid": "47"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.388983,
+                    45.4763501
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7:30am - 5pm",
+                "description": "Plumbing supply store in Longueuil, Quebec",
+                "name": "EMCO",
+                "address" : "3330 2E RUE LOCAL 20 ST-HUBERT QC J3Y 8Y7",
+                "phone": "450-676-1847",
+                "storeid": "48"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.5752566,
+                    50.4687433
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "Emco Corporation",
+                "phone": "306-525-2311",
+              "address" : "615 VENNELS STREET REGINA SK S4N 6B1",
+                "storeid": "49"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.9569685,
+                    50.986369
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 4:30pm",
+                "description": "Heating equipment supplier in Calgary, Alberta",
+                "name": "EMCO",
+                "address" : "5480 - 76TH AVE S.E. CALGARY AB T2C 4S3",
+                "phone": "403-258-2225",
+                "storeid": "50"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.641404,
+                    53.5575765
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 5pm",
+                "description": "Plumbing supply store",
+                "name": "EMCO",
+                "address" : "10930-184TH ST NW EDMONTON AB T5S 2P8",
+                "phone": "780-452-3626",
+                "storeid": "51"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.8573562,
+                    55.1681647
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "Plumbing supply store in Grande Prairie, Alberta",
+                "name": "EMCO",
+                "address": "11905-99 Ave Grand Prairie AB T8W 0C7",
+                "phone": "780-532-3363",
+                "storeid": "52"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.6984154,
+                    50.0625256999999
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 5pm",
+                "description": "Plumbing supply store in Lethbridge, Alberta",
+                "name": "EMCO",
+                "address" : "316 24th St Medicine Hat AB T1H 3T8",
+                "phone": "403-327-3111",
+                "storeid": "53"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -81.0310416,
+                   46.6047348
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 5pm",
+                "description": "Heating equipment supplier in Sudbury, Ontario",
+                "name": "Gagnon & Associates, Inc",
+                "address": "2800 WHITE STREET VAL CARON ON P3N 1B",
+                "phone": "705-897-1942",
+                "storeid": "54"
+            }
+        }, 
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7581694,
+                    45.5946195
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "Gazeauair",
+                "address": "4015 RUE GARAND LAVAL QC HTL 5X5",
+                "phone": "450-625-9352",
+                "storeid": "55"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0355284,
+                     51.0311116
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "HVAC-R",
+                "hours": "",
+                "description": "",
+                "name": "EMCO - ISC Calgary",
+                "address": "1216 - 26TH AVENUE SE CALGARY AB T2G 5S2",
+                "phone": "877-212-2822 or 403-214-2134",
+                "storeid": "56"
+            }
+        }, 
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.530372,
+                    53.565259
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "Independent Supply Co",
+                "address" : "11418 - 120TH STREET EDMONTON AB T5G 2Y2",
+                "phone": "780-451-4744",
+                "storeid": "57"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2085007,
+                   49.9126979
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "WishBone",
+                "address" : "UNIT A - 1791 DUBLIN AVE. WINNIPEG MB R3H 1A9",
+                "phone": "1-866-857-5553",
+                "storeid": "58"
+            }
+        },
+
+
+
+    {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4708046 ,
+                    43.403656
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "HVAC-R",
+                "hours": "",
+                "description": "",
+                "name": "EMCO - ISC Kitchener",
+                "address" : "1425 STRASBURG ROAD, UNIT 1A KITCHENER ON N2R 1H2",
+                "phone": "866-300-4300 or 519-748-0961",
+                "storeid": "59"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4896371999999,
+                    46.3287229
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "HVAC-R",
+                "hours": "",
+                "description": "",
+                "name": "EMCO - ISC North Bay",
+                "address" : "600 GORMANVILLE ROAD  UNIT N NORTH BAY ON P1B 9S7",
+                "phone": "888-266-1955 or 705-476-0800",
+                "storeid": "60"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6244545999999 ,
+                    45.4126968
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "EMCO Corp",
+                "address" : "1550 LIVERPOOL COURT, UNIT 1-4 OTTAWA ON K1B 4L2",
+                "phone": "613-749-9944",
+                "storeid": "61"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2041376999999,
+                     43.1753557
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "HVAC-R",
+                "hours": "",
+                "description": "",
+                "name": "EMCO - ISC St. Catharines",
+                "address" : "27 SEAPARK DRIVE ST CATHARINES ON L2M 6S5", 
+                "phone": "905-988-1724",
+                "storeid": "62"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6514097,
+                    52.1739696
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "HVAC-R",
+                "hours": "",
+                "description": "",
+                "name": "ISC Saskatoon",
+                "address" : "2815B CLEVELAND AVENUE SASKATOON SK S7K 8G1", 
+                "phone": "306-373-9227",
+                "storeid": "63"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.5795666,
+                    50.4652964
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Steel fabricator",
+                "hours": "M-F, 7am - 4:30pm",
+                "description": "",
+                "name": "Inland Metal",
+                "address" : "815 MacKay St, Regina, Saskatchewan S4N 2S3",
+                "phone": "306-949-9292",
+                "storeid": "64"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7465478,
+                    45.5877212
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "fans-industrial & commercial",
+                "name": "Innovent",
+                "address": "3049 RUE PEUGEOT LAVAL QC H7L 5C4", 
+                "phone": "450-681-1374",
+                "storeid": "65"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.618993,
+                    45.9133633
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "",
+                "name": "KERR CONTROLS LTD",
+                "address" : "125 WHITING RD FREDERICTON NB E3B 5Y5", 
+                "phone": "506-452-9090",
+                "storeid": "66"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.8061886,
+                    46.095728
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "Wholesaler in Moncton, New Brunswick",
+                "name": "KERR CONTROLS LTD",
+                "address" : "61 HALIFAX STREET MONCTON NB E1C 9R5",
+                "phone": "506-857-3233",
+                "storeid": "67"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.9449057,
+                    48.9496338999999
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "Wholesaler in Corner Brook, Newfoundland and Labrador",
+                "name": "KERR CONTROLS LTD",
+                "address" : "44 BROOK STREET, PO BOX 487 CORNER BROOK NL A2H6E6",
+                "phone": "709-634-5323",
+                "storeid": "68"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.7170322,
+                    47.5507286
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "Wholesaler in St. John's, Newfoundland and Labrador",
+                "name": "KERR CONTROLS LTD",
+                "address" : "683 Water St, St. John's, NL A1E 1B5, Canada",
+                "phone": "709-753-3760",
+                "storeid": "69"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.5854145,
+                    44.7149016
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "Heating equipment supplier in Dartmouth, Nova Scotia",
+                "name": "KERR CONTROLS LTD.",
+                "address" : "11 WILLIAMS AVENUE DARTMOUTH NS B3B 1X3",
+                "phone": "902-468-7077",
+                "storeid": "70"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.615988,
+                    44.6639627
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "Wholesaler in Halifax, Nova Scotia",
+                "name": "KERR CONTROLS LTD",
+                "address" : "3611 COMMISSION STREET HALIFAX NS B3K 5S3",
+                "phone": "902-455-7248",
+                "storeid": "71"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.1554067,
+                    46.1373667
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "Wholesaler",
+                "name": "KERR CONTROLS LTD",
+                "address" : "56 COSSITT HEIGHTS DRIVE SYDNEY NS B1P 6E4",
+                "phone": "902-539-2660",
+                "storeid": "72"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.2817342 ,
+                    45.3649719
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "",
+                "name": "KERR CONTROLS LTD",
+                "address" : "125 POLYMER DRIVE, PO BOX 1500 TRURO NS B2N 5V2",
+                "phone": "902-895-9281",
+                "storeid": "73"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9909924,
+                    44.5629593
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "",
+                "name": "KERR CONTROLS LTD",
+                "address" :"107 JASON STREET OWEN SOUND ON N4K 5N7",
+                "phone": "519-372-0551",
+                "storeid": "74"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9237029,
+                    46.5159084
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "Wholesaler",
+                "name": "KERR CONTROLS LTD",
+                "address" : "878 FALCONBRIDGE ROAD SUDBURY ON P3A 4S4",
+                "phone": "705-525-5679",
+                "storeid": "75"
+            }
+        }, 
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.1158936 ,
+                    46.2489809
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "Distribution service",
+                "name": "KERR CONTROLS LTD",
+                "address" : "26 EXHIBITION DRIVE CHARLOTTETOWN PE C1A 5S5",
+                "phone": "902-566-5377",
+                "storeid": "76"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.2109955,
+                    42.9897346
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "Wholesaler",
+                "name": "KERR CONTROLS LTD",
+                "address" : "1111 FRANCES STREET LONDON ON N6W 2L9",
+                "phone": "519-455-5343",
+                "storeid": "77"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.210526,
+                    43.1537431
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "HVAC Services",
+                "name": "Marks Supply Inc.",
+                "address" : "590 ELGIN STREET BRANTFORD ON N3S 7X2", 
+                "phone": "519-753-7528",
+                "storeid": "78"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7971908,
+                    43.3668224
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "HVAC services",
+                "hours": "M-F 7am - 5pm",
+                "description": "",
+                "name": "Marks Supply Inc",
+                "address" : "3424 LANDMARK ROAD BURLINGTON ON L7M 1S8",
+                "phone": "905-335-3848",
+                "storeid": "79"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.295063,
+                    43.5558177
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "HVAC services",
+                "hours": "M-F 6:30am - 5pm",
+                "description": "",
+                "name": "Marks Supply Inc",
+                "address": "55 ARROW ROAD GUELPH ON N1K 1S8",
+                "phone": "519-824-0320",
+                "storeid": "80"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4778797,
+                    43.4706708
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6am - 5pm, Saturday 8am - 12pm",
+                "description": "",
+                "name": "Marks Supply Inc",
+                "address" : "300 ARNOLD STREET KITCHENER ON N2H 6E9",
+                "phone": "519-578-5560",
+                "storeid": "81"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.216167,
+                    42.9990416
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Wholesaler",
+                "name": "Marks Supply Inc",
+                "address" : "1050 ELIAS STREET LONDON ON N5W 3P6",
+                "phone": "800-265-5964",
+                "storeid": "82"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.1208947,
+                    43.1046586999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Wholesaler",
+                "name": "Marks Supply Inc",
+                "address" : "4735 KENT AVENUE NIAGARA FALLS ON L2H 1J3",
+                "phone": "800-308-1688",
+                "storeid": "83"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.941459,
+                    42.2925663
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Wholesaler",
+                "name": "Marks Supply Inc",
+                "address" : "3235 JEFFERSON BLVD WINDSOR ON N8T 2W7", 
+                "phone": "866-655-0008",
+                "storeid": "84"
+            }
+        }, 
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8147276999999,
+                    45.3302317
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-Thursday 7am - 3:15pm, Friday 7-11am ",
+                "description": "Auto repair shop in Ottawa, Ontario",
+                "name": "Mastron Mechanical",
+                "address" :"27 NORTHSIDE ROAD UNIT 270 OTTAWA ON K2H 8S1",
+                "phone": "613-727-5537",
+                "storeid": "85"
+            }
+        }, 
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2329154999999,
+                    43.1518932
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "HVAC-R",
+                "hours": "",
+                "description": "",
+                "name": "McKeough Supply - A divison of EMCO corporation",
+                "address" : "360 ELGIN STREET BRANTFORD ON N3S 7P6", 
+                "phone": "519-753-3186",
+                "storeid": "86"
+            }
+        }, 
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1842808,
+                    44.4920159
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Heating equipment supplier in Collingwood, Ontario",
+                "name": "McKeough Supply - A divison of EMCO corporation",
+                "address" : "25-2 SANDFORD FLEMING COLLINGWWOOD ON L9Y 5A6",
+                "phone": "705-445-5110",
+                "storeid": "87"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8386905,
+                    43.1921444
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "HVAC-R",
+                "hours": "",
+                "description": "",
+                "name": "McKeough Supply - A divison of EMCO corporation",
+                "phone": "905-574-4111",
+                "address" : "240 NEBO ROAD HAMILTON ON L8W 2E4",
+                "storeid": "88"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1820274,
+                    42.9334642
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "HVAC-R",
+                "hours": "",
+                "description": "",
+                "name": "McKeough Supply - A divison of EMCO corporation",
+                "address" : "91 ENTERPRISE DRIVE LONDON ON N6N 1A5",
+                "phone": "519-686-6832",
+                "storeid": "89"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.3953978,
+                    42.9588596
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "HVAC-R",
+                "hours": "",
+                "description": "",
+                "name": "McKeough Supply - A divison of EMCO corporation",
+                "address" : "281 CAMPBELL STREET SARNIA ON N7T 2H2",
+                "phone": "519-344-6116",
+                "storeid": "90"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2690557,
+                    43.1485025
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "HVAC-R",
+                "hours": "",
+                "description": "",
+                "name": "McKeough Supply - A divison of EMCO corporation",
+                "address" : "UNIT 360 - 380 VANSICKLE ROAD ST. CATHARINES ON L2S 0B5",
+                "phone": "905-688-5022",
+                "storeid": "91"
+            }
+        }, 
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.5322983,
+                    43.5048841
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Heating equipment supplier in Waterloo, Ontario",
+                "name": "McKeough Supply - A divison of EMCO corporation",
+                "address" : "35 BAFFIN PLACE, UNIT B WATERLOO ON N2V 1Z7",
+                "phone": "519-885-1260",
+                "storeid": "92"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7175804,
+                    43.1207827
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 4:30pm",
+                "description": "Heating equipment supplier in Woodstock, Ontario",
+                "name": "McKeough Supply - A divison of EMCO corporation",
+                "address" : "414 BEARDS LANE WOODSTOCK ON N4S 7W3",
+                "phone": "519-602-6253",
+                "storeid": "93"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.1891218999999,
+                    42.4072578
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "Hvac Plumbing IPUF Refrigeration Serving Southwest Ontario with a strong family tradition for over 160 years ",
+                "name": "McKeough Supply - A divison of EMCO corporation",
+                "address" : "30 DOVER ST CHATHAM ON N7L 1S6",
+                "phone": "519-352-7110",
+                "storeid": "94"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6427746,
+                    43.7734028
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5pm",
+                "description": "Heating equipment supplier in Vaughan, Ontario",
+                "name": "Metalworks Corporation",
+                "address" : "155 NEW HUNTINGTON ROAD VAUGHAN ON L4H 3R6",
+                "phone": "905-265-0999",
+                "storeid": "95"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4815476 ,
+                    45.5286736
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "Appliance parts supplier in Longueuil, Quebec",
+                "name": "MIDBEC LTD.",
+                "address" : "100 BOUL CURE POIRIER OUEST LONGUEUIL QC J4J 2E9",
+                "phone": "450-463-0011",
+                "storeid": "96"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6365811,
+                    45.5401935
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "Appliance parts supplier in Montreal, Quebec",
+                "name": "MIDBEC LTD.",
+                "address" : "8448, BOULEVARD ST-LAURENT MONTREAL QC H2P 2M3",
+                "phone": "514-270-5775",
+                "storeid": "97"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6392047,
+                    52.1922623
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 4:30pm",
+                "description": "Energy equipment and solutions in Saskatoon, Saskatchewan",
+                "name": "National Energy Equipment Inc.",
+                "address" : "3610 KOCHAR AVE SASKATOON SK S7P 0C2",
+                "phone": "306-665-0223",
+                "storeid": "98"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3305613 ,
+                    46.5363887
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Pipe supplier in Sault Ste. Marie, Ontario",
+                "name": "National Supply Centre",
+                "address" : "9 Sackville Rd SAULT STE MARIE ON P6B 4T3", 
+                "phone": "705-253-5646",
+                "storeid": "99"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3255338,
+                    48.4664821999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Wholesaler in Timmins, Ontario",
+                "name": "National Supply Centre",
+                "address" : "457 Railway St Timmins ON P4N 2P5",
+                "phone": "705-360-1065",
+                "storeid": "100"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0247749999999,
+                    43.8493099
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6am - 5:30pm, Sat 7am - 12pm",
+                "description": "Plumbing supply store in Ajax, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "89 MILLS ROAD AJAX ON L1S 2H1",
+                "phone": "905-428-8700",
+                "storeid": "101"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3958695,
+                    44.1748421
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Plumbing supply store in Belleville, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "83 COLLEGE STREET WEST BELLEVILLE ON K8P 2G3", 
+                "phone": "613-969-0520",
+                "storeid": "102"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7254081999999 ,
+                    43.6868997
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6am - 5:30pm, Sat 7:30am - 12pm",
+                "description": "Plumbing supply store in Brampton, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "268 RUTHERFORD ROAD SOUTH BRAMPTON ON L6W 3N3",
+                "phone": "905-451-6961",
+                "storeid": "103"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6800239,
+                    44.6170197
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Plumbing supply store in Brockville, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "1845 PARKEDALE AVENUE BROCKVILLE ON K6V 5T2",
+                "phone": "613-342-7011",
+                "storeid": "104"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2907529,
+                    43.4094759
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5pm",
+                "description": "",
+                "name": "NOBLE TRADE",
+                "address" : "490 SHELDON DRIVE UNITS 7-8 CAMBRIDGE ON N1T 2C1", 
+                "phone": "519-620-2100",
+                "storeid": "105"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5134447,
+                    43.7826846
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6am - 10pm, Sat 5am - 6pm",
+                "description": "Plumbing supply store in Vaughan, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "7171 JANE STREET CONCORD ON L4K 1A7",
+                "phone": "905-760-6800",
+                "storeid": "106"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.6896584,
+                    45.0401902
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Plumbing supply store in Cornwall, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "2905 COPELAND STREET CORNWALL ON K6H 6L8", 
+                "phone": "613-933-5600",
+                "storeid": "107"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5292746,
+                    43.6262563
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 5:30am - 5:30pm, Sat 7:30am - 12pm",
+                "description": "Plumbing supply store in Toronto, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "726 KIPLING AVENUE ETOBICOKE ON M8Z 5G5",
+                "phone": "416-259-7377",
+                "storeid": "108"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3730262999999,
+                    44.9090456
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-Thursday 7am - 5pm, Friday 7am-4:30pm",
+                "description": "Plumbing supply store in Gravenhurst, Ontario",
+                "name": "NOBLE TRADE",
+                "address": "1255 GEORGE BEARD LANE GRAVENHURST ON P1P 1K8",
+                "phone": "705-687-8600",
+                "storeid": "109"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2166199,
+                    43.4911932
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6am - 5pm",
+                "description": "Plumbing supply store in Guelph, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "197 HANLON CREEK BLVD GUELPH ON N1C 0A1", 
+                "phone": "519-821-2055",
+                "storeid": "110"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7681995,
+                    43.2450292
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5pm",
+                "description": "Plumbing supply store in Hamilton, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "409 NASH ROAD NORTH HAMILTON ON L8H 7R8",
+                "phone": "905-570-1099",
+                "storeid": "111"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4413757 ,
+                    43.4139671
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5pm",
+                "description": "Plumbing supply store in Kitchener, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "800 WILSON AVENUE 1 KITCHENER ON N2C 0A2", 
+                "phone": "519-895-3300",
+                "storeid": "112"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.220789 ,
+                    42.9647946
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5pm",
+                "description": "Plumbing supply store in London, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "180 ADELAIDE STREET SOUTH LONDON ON N5Z  3L1",
+                "phone": "519-433-4770",
+                "storeid": "113"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3612959,
+                    43.8314545
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "plumbing contractors",
+                "name": "NOBLE TRADE",
+                "address" : "205 KONRAD CRESCENT MARKHAM ON L3R 8T9",
+                "phone": "905-470-2301",
+                "storeid": "114"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9177835 ,
+                    43.5366133
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5:30pm",
+                "description": "Plumbing supply store in Milton, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "8699 ESCARPMENT WAY, UNIT 7 MILTON ON L9T 0J5",
+                "phone": "905-693-6300",
+                "storeid": "115"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.42478,
+                    44.0574299
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5:30pm, Sat 7am - 12pm",
+                "description": "Plumbing supply store in Newmarket, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "1188 GORHAM STREET, UNIT B NEWMARKET ON L3Y 8W4",
+                "phone": "905-830-6900",
+                "storeid": "115"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.1239788 ,
+                    43.1073579
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5pm",
+                "description": "Plumbing supply store in Niagara Falls, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "4536 MONTROSE ROAD UNIT  1 NIAGARA FALLS ON L2H 1K2",
+                "phone": "905-358-8700",
+                "storeid": "116"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3569401,
+                    43.7621855
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5:30pm, Sat 7am - 12pm",
+                "description": "Plumbing supply store in Toronto, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "150 DUNCAN MILLS ROAD, UNIT 1 NORTH YORK ON M3B 3M4",
+                "phone": "416-443-1300",
+                "storeid": "117"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7229859 ,
+                    43.4216664
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5:30pm, Sat 7:30am - 12pm",
+                "description": "Plumbing supply store in Oakville, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "2009 WYECROFT ROAD, UNIT C-1 OAKVILLE ON L6L 6J4",
+                "phone": "905-465-3367",
+                "storeid": "118"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.82831,
+                    43.8758663
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6am - 5pm",
+                "description": "Plumbing supply store in Oshawa, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "380 MARWOOD DRIVE, UNITS 1-3 OSHAWA ON L1H 8B4",
+                "phone": "905-720-1099",
+                "storeid": "119"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.63403,
+                    45.42904
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "NOBLE TRADE",
+                "address" : "1124 CUMMING AVENUE OTTAWA ON K1J 7R8",
+                "phone": "613-746-9555",
+                "storeid": "120"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.3410407 ,
+                    44.2775069
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Plumbing supply store in Peterborough, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "696 THE KINGSWAY PETERBOROUGH ON K9J 6W6",
+                "phone": "705-743-4900",
+                "storeid": "121"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2379101,
+                    43.7821399
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5:30pm, Sat 7:30am - 12pm",
+                "description": "Plumbing supply store in Toronto, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "21 ESTATE DRIVE SCARBOROUGH ON M1H 2Z2",
+                "phone": "416-289-1099",
+                "storeid": "122"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2016697,
+                    43.1791615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5pm",
+                "description": "Plumbing supply store in St. Catharines, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "612 WELLAND AVE, UNIT B ST CATHARINES ON L2M 5V6",
+                "phone": "905-685-1099",
+                "storeid": "123"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4150789  ,
+                    43.6731158
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5:30pm, Sat 7:30am - 12pm",
+                "description": "Plumbing supply store in Toronto, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "488 DUPONT STREET TORONTO ON M6G 1Y7",
+                "phone": "416-537-1099",
+                "storeid": "124"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9959315,
+                    42.2778651
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Heating equipment supplier in Windsor, Ontario",
+                "name": "NOBLE TRADE",
+                "address" : "3096 DEVON DRIVE WINDSOR ON N8X 4L2",
+                "phone": "519-969-1152",
+                "storeid": "125"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6591133 ,
+                    52.1667389
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Distribution service in Saskatoon, Saskatchewan",
+                "name": "Nu-Trend Industries",
+                "address" : "2-618 47th St East SASKATOON SK S7K 5X3",
+                "phone": "306-934-0141",
+                "storeid": "126"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.373734 ,
+                    48.437411
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 4:30pm",
+                "description": "Electric motor store in Victoria, British Columbia",
+                "name": "Osborne Electro-Mechanics Ltd",
+                "address" : "107-2740 BRIDGE ST.  VICTORIA BC V8T 5C5",
+                "phone": "250-386-3381",
+                "storeid": "127"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6812174 ,
+                    49.1059317
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6am - 3:30pm",
+                "description": "HVAC contractor in Surrey, British Columbia",
+                "name": "PACAIRE HVAC SUPPLIES LTD.",
+                "address" : "101 - 19515 - 56TH AVENUE SURREY BC V3S 6K3", 
+                "phone": "604-539-0233",
+                "storeid": "128"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.62104 ,
+                    43.6309501
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 4:30am",
+                "description": "Heating equipment supplier in Mississauga, Ontario",
+                "name": "PEDCO SUPPLY",
+                "address" : "1240 CRESTLAWN DR, MISSISSAUGA, ON L4W 1A6",
+                "phone": "905-238-1888",
+                "storeid": "129"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0127252 ,
+                    51.0833088
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "m-F 7am - 5pm",
+                "description": "",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "3 - 3401-19TH ST. NE CALGARY AB T2E 6S8",
+                "phone": "403-250-9866",
+                "storeid": "130"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0522445 ,
+                    51.0122396
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Heating equipment supplier in Calgary, Alberta",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "4616 MANHATTAN ROAD SE CALGARY AB T2G 4B4",
+                "phone": "403-243-8191",
+                "storeid": "131"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.5280803 ,
+                    53.5582413
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Heating equipment supplier in Edmonton, Alberta",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "11089 - 120TH STREET EDMONTON AB T5H 3R2",
+                "phone": "780-455-7755",
+                "storeid": "132"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4136675 ,
+                    53.4948977
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Heating equipment supplier in Edmonton, Alberta",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "4735 ROPER ROAD NW EDMONTON AB T6B 3S5",
+                "phone": "780-485-2121",
+                "storeid": "133"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0164386 ,
+                    49.2593672
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5pm, Sat 8am - 3pm",
+                "description": "Heating equipment supplier in Burnaby, British Columbia",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "3958 MYRTLE STREET BURNABY BC V5C 4G2",
+                "phone": "604-435-1313",
+                "storeid": "134"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9818516,
+                    49.1894859
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5pm",
+                "description": "Heating equipment supplier in Burnaby, British Columbia",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "8028 NORTH FRASER WAY BURNABY BC V5J 0E1", 
+                "phone": "604-454-5075",
+                "storeid": "135"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8230411 ,
+                    49.2294373999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "2394 CANOE AVENUE COQUITLAM BC V3K 6C2", 
+                "phone": "604-944-0441",
+                "storeid": "136"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.4240336,
+                    49.8843839
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Heating equipment supplier in Kelowna, British Columbia",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "1885 BARON ROAD KELOWNA BC V1X 5W2", 
+                "phone": "250-763-3114",
+                "storeid": "137"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6574916 ,
+                    49.1202621
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 6:30am - 5pm",
+                "description": "Heating equipment supplier in Langley Township, British Columbia",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "20392 - 65TH AVENUE LANGLEY BC V2Y 3G9",
+                "phone": "604-539-2290",
+                "storeid": "138"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1074553 ,
+                    49.2691483
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Heating equipment supplier in Vancouver, British Columbia",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "132 WEST 2ND AVENUE VANCOUVER BC V5Y 1C2",
+                "phone": "604-872-7521",
+                "storeid": "139"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.3658705  ,
+                    48.4414425999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Heating equipment supplier in Victoria, British Columbia",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "2885 QUESNEL STREET VICTORIA BC V8T 4K2",
+                "phone": "250-475-6055",
+                "storeid": "140"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1833343999999  ,
+                    49.8968871
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Heating equipment supplier in Winnipeg, Manitoba",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "1095 ERIN STREET WINNIPEG MB R3G 2X1", 
+                "phone": "204-775-5887",
+                "storeid": "141"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.611211,
+                    50.4601806
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "m-F 7:30am",
+                "description": "Heating equipment supplier in Regina, Saskatchewan",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "1160 SCARTH STREET REGINA SK S4R 2E2",
+                "phone": "306-359-9797",
+                "storeid": "142"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6690271 ,
+                    52.1607754
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Heating equipment supplier in Saskatoon, Saskatchewan",
+                "name": "REFRIGERATIVE SUPPLY",
+                "address" : "2250 NORTHRIDGE DRIVE SASKATOON SK S7L 1B9",
+                "phone": "306-665-2206",
+                "storeid": "143"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0411633 ,
+                    51.0177702
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am 5pm",
+                "description": "Heating equipment supplier in Calgary, Alberta",
+                "name": "Sinclair Supply",
+                "address" : "4033 - 9TH  STREET SE CALGARY AB T2G 3C7", 
+                "phone": "403-571-6340",
+                "storeid": "144"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.5302042,
+                    53.5549793
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Heating equipment supplier in Edmonton, Alberta",
+                "name": "Sinclair Supply",
+                "address" : "10914 120TH ST EDMONTON AB T5H 3P7",
+                "phone": "780-452-3110",
+                "storeid": "145"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4614931,
+                    53.4993771
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7:30am - 5pm",
+                "description": "Heating equipment supplier in Edmonton, Alberta",
+                "name": "Sinclair Supply",
+                "address" : "6243 - 88TH STREET EDMONTON AB T6E 5T4",
+                "phone": "780-465-9551",
+                "storeid": "146"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4146371,
+                    56.7757359999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "Furnaces in Fort Mcmurray",
+                "name": "Sinclair Supply",
+                "address" : "25-280 TAIGANOVA CRESCENT FORT MCMURRAY AB T9K 0T4",
+                "phone": "780-791-7828",
+                "storeid": "147"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.828205  ,
+                    55.163115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "Heating equipment supplier in Grande Prairie, Alberta",
+                "name": "Sinclair Supply",
+                "address" : "11027 - 92 AVENUE GRAND PRAIRIE AB T8V 3J3",
+                "phone": "780-532-1310",
+                "storeid": "148"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.7924189,
+                    49.7160071
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 4:30am",
+                "description": "Heating equipment supplier in Lethbridge, Alberta",
+                "name": "Sinclair Supply",
+                "address" : "1204 - 33RD  STREET NORTH LETHBRIDGE AB T1H 5H3",
+                "phone": "403-320-1661",
+                "storeid": "149"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.8028847,
+                    52.2847932
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7:30am - 5pm",
+                "description": "Heating equipment supplier in Red Deer, Alberta",
+                "name": "Sinclair Supply",
+                "address" : "6, 4605 - 62ND  STREET RED DEER AB T4N 2R4",
+                "phone": "403-346-5080",
+                "storeid": "150"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7372565 ,
+                    53.9141954
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7:30am - 4:30pm",
+                "description": "Heating equipment supplier in Prince George, British Columbia",
+                "name": "Sinclair Supply",
+                "address" : "749-3RD AVENUE PRINCE GEORGE BC V2L 3C6", 
+                "phone": "250-563-2404",
+                "storeid": "151"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8579782 ,
+                    49.1529267
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F &am - 5pm",
+                "description": "Heating equipment supplier in Surrey, British Columbia",
+                "name": "Sinclair Supply",
+                "address" : "13155 - 82A AVENUE SURREY BC V3W 9Y6", 
+                "phone": "604-543-6310",
+                "storeid": "152"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.3699321 ,
+                    48.4353834
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 4:30pm",
+                "description": "Heating equipment supplier in Victoria, British Columbia",
+                "name": "Sinclair Supply",
+                "address" : "585 BAY STREET VICTORIA BC V8T 1P5",
+                "phone": "250-386-4328",
+                "storeid": "153"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2079811,
+                    49.9141823
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7:30am - 5pm",
+                "description": "Sinclair Supply Ltd. is Western Canada's leading wholesale distributor of HVAC, Refrigeration, Controls, Hydronics and Solar equipment. We have 17 locations to serve you.",
+                "name": "Sinclair Supply",
+                "address" : "1500 KING EDWARD STREET WINNIPEG MB R3H 0R5",
+                "phone": "204-632-4808",
+                "storeid": "154"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.603782 ,
+                    50.4601456
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7:30am - 4:30pm",
+                "description": "Heating equipment supplier in Regina, Saskatchewan",
+                "name": "Sinclair Supply",
+                "address" : "1604 6TH AVENUE REGINA SK S4R 8L7",
+                "phone": "306-569-0627",
+                "storeid": "155"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6664174,
+                    52.1617904
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "Sinclair Supply",
+                "address": "302 - 44 STREET EAST SASKATOON SK S7K 8A7",
+                "phone": "306-934-3585",
+                "storeid": "156"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.2304123999999,
+                    42.9213457
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F &am - 5pm",
+                "description": "Manufacturer in London, Ontario",
+                "name": "Somers Environmental Products Inc",
+                "address" : "96 MEG DRIVE LONDON ON N6E 3T7",
+                "phone": "519-681-1977",
+                "storeid": "157"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0351216,
+                    51.0310683
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 4:30am",
+                "description": "Electric motor store in Calgary, Alberta",
+                "name": "Soper's Supply",
+                "address" : "1224 - 26 AVE SE. CALGARY AB T2G 5S2",
+                "phone": "403-243-4130",
+                "storeid": "158"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.858197 ,
+                    49.153257
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 4:30pm",
+                "description": "Electric motor store in Surrey, British Columbia",
+                "name": "Soper's Supply",
+                "address" : "9, 8285 - 132ND STREET SURREY BC V3W 4N6", 
+                "phone": "604-590-1667",
+                "storeid": "159"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1088647,
+                    49.2655003
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 4:30pm",
+                "description": "Electric motor store in Vancouver, British Columbia",
+                "name": "Soper's Supply",
+               "address" : "182 WEST  6TH AVENUE VANCOUVER BC V5Y 1K6",
+                "phone": "604-566-9370",
+                "storeid": "160"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8670156 ,
+                    43.8774613
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 4:30pm",
+                "description": "Air conditioning contractor in Oshawa, Ontario",
+                "name": "Southern Supplies Limited",
+                "address" : "323 BLOOR STREET WEST OSHAWA ON L1J 6X4",
+                "phone": "905-728-6216",
+                "storeid": "161"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3942102,
+                    44.1574559
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "HVAC contractor in Belleville, Ontario",
+                "name": "Southern Supplies Limited",
+                "address" : "48 PARKER STREET BELLEVILLE ON K8P 1C8",
+                "phone": "613-962-5373",
+                "storeid": "162"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.7078305,
+                    46.1060228
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 5pm",
+                "description": "",
+                "name": "The Master Group",
+                "address" : "186 DIEPPE BLVD DIEPPE NB E1A 6P8",
+                "phone": "506-382-8625",
+                "storeid": "163"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.6332751 ,
+                    45.9177028
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Air conditioning system supplier in Fredericton, New Brunswick",
+                "name": "The Master Group",
+                "address" : "190, ALISON BOULEVARD FREDERICTON NB E3C 0A9",
+                "phone": "506-451-3644",
+                "storeid": "164"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.6016044 ,
+                    44.7128956
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Air conditioning system supplier in Dartmouth, Nova Scotia",
+                "name": "The Master Group",
+                "address" : "181 JOSEPH ZATZMAN DRIVE, UNIT 15 DARTMOUTH NS B3B 1R5",
+                "phone": "902-468-3238",
+                "storeid": "165"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7781179,
+                    43.3894163
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Air conditioning system supplier in Burlington, Ontario",
+                "name": "The Master Group",
+                "address" : "5040 MAINWAY UNIT 8 BURLINGTON ON L7L 7G5",
+                "phone": "905-335-4002",
+                "storeid": "166"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.309981  ,
+                    43.715398
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Air conditioning system supplier in Toronto, Ontario",
+                "name": "The Master Group",
+                "address" : "38 CRANFIELD ROAD EAST YORK ON M4B 3H3",
+                "phone": "416-751-1611",
+                "storeid": "167"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5829068,
+                    43.7034282
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am-5pm, Sat 8am - 1pm",
+                "description": "Air conditioning system supplier in Toronto, Ontari",
+                "name": "The Master Group",
+                "address" : "65 VULCAN STREET ETOBICOKE ON M9W 1L4",
+                "phone": "416-244-5611",
+                "storeid": "168"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7761271,
+                    43.2504934
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Air conditioning system supplier in Hamilton, Ontario",
+                "name": "The Master Group",
+                "address" : "639 WOODWARD AVENUE HAMILTON ON L8H 6P3",
+                "phone": "905-547-8300",
+                "storeid": "169"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5703741 ,
+                    44.2699041
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Commercial, Industrial, Residential",
+                "hours": "",
+                "description": "",
+                "name": "The Master Group",
+                "address" : "1225 GARDINDERS ROAD, UNIT 107 KINGSTON ON K7P 0G3",
+                "phone": "613-634-2552",
+                "storeid": "170"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3428593 ,
+                    43.8312372
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "The Master Group",
+                "address" : "49 RIVIERA DRIVE MARKHAM ON L3R 5J6",
+                "phone": "905-475-0075",
+                "storeid": "171"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6934871999999 ,
+                    43.6523348
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Air conditioning system supplier in Mississauga, Ontario",
+                "name": "The Master Group",
+                "address" : "445 ADMIRAL BLVD, UNIT 10 MISSISSAUGA ON L5T 2N1", 
+                "phone": "905-670-7521",
+                "storeid": "172"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8131502,
+                    45.3307009
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 5pm",
+                "description": "Air conditioning system supplier in Ottawa, Ontario",
+                "name": "The Master Group",
+                "address" : "25H NORTH SIDE ROAD OTTAWA ON K2H 8S1", 
+                "phone": "613-829-2816",
+                "storeid": "173"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0238036,
+                    43.8497323
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Wholesaler in Ajax, Ontario",
+                "name": "UNITED REFRIGERATION OF CANADA LTD.",
+                "address" : "90 COMMERCIAL AVENUE AJAX ON L1S 2H5",
+                "phone": "905-427-6222",
+                "storeid": "174"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7027106 ,
+                    44.3757887
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Wholesaler in Barrie, Ontario",
+                "name": "United Refrigeration Of Canada",
+                "address" : "1-25 LORENA STREET, 1 BARRIE ON L4N 3H5", 
+                "phone": "705-727-9979",
+                "storeid": "175"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7824335999999,
+                    43.3669509
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Wholesaler in Burlington, Ontario",
+                "name": "UNITED REFRIGERATION OF CANADA LTD.",
+                "address" : "919 FRASER DR. 1-2 BURLINGTON ON L7L 4X8",
+                "phone": "905-333-0132",
+                "storeid": "176"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5178363 ,
+                    43.6155804
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Wholesaler in Toronto, Ontario",
+                "name": "UNITED REFRIGERATION OF CANADA LTD.",
+                "address" : "41 HORNER AVENUE, UNIT 4 ETOBICOKE ON M8Z 4X4", 
+                "phone": "416-251-8338",
+                "storeid": "177"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7681999,
+                    43.2426699
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F 7am - 5pm",
+                "description": "Wholesaler in Hamilton, Ontario",
+                "name": "UNITED REFRIGERATION OF CANADA LTD.",
+                "address" : "398 NASH ROAD NORTH, UNIT 4 HAMILTON ON L8H 7P5",
+                "phone": "905-561-5335",
+                "storeid": "178"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5182559 ,
+                    44.2606583
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Wholesaler in Kingston, Ontario",
+                "name": "UNITED REFRIGERATION OF CANADA LTD.",
+                "address" : "1407 JOHN COUNTER BLVD, UNIT 150-A KINGSTON ON K7K 6A9",
+                "phone": "613-542-6111",
+                "storeid": "179"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4695881999999  ,
+                    43.4017618
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Wholesaler in Kitchener, Ontario",
+                "name": "UNITED REFRIGERATION OF CANADA LTD.",
+                "address" : "500 TRILLIUM DRIVE KITCHENER ON N2R 1A7", 
+                "phone": "519-895-3855",
+                "storeid": "180"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3399548 ,
+                    43.8334017
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm, Sat 8am - 12pm",
+                "description": "Wholesaler in Markham, Ontario",
+                "name": "UNITED REFRIGERATION OF CANADA LTD.",
+                "address" : "130 RIVIERA DRIVE MARKHAM ON L3R 5M1", 
+                "phone": "905-479-1212",
+                "storeid": "181"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6532299,
+                    43.65839
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm, Sat 8am - 12pm",
+                "description": "Wholesaler in Mississauga, Ontario",
+                "name": "UNITED REFRIGERATION OF CANADA LTD.",
+                "address" : "6200 DIXIE ROAD, UNIT 14 MISSISSAUGA ON L5T 2E1",
+                "phone": "905-795-1515",
+                "storeid": "182"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6151192,
+                    45.4079758
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 5pm",
+                "description": "Wholesaler in Ottawa, Ontario",
+                "name": "UNITED REFRIGERATION OF CANADA LTD.",
+                "address" : "1230 OLD INNES ROAD OTTAWA ON K1B 3V3",
+                "phone": "613-745-1911",
+                "storeid": "183"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2492556999999 ,
+                    43.7852279
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F. 7am - 5pm",
+                "description": "Wholesaler in Toronto, Ontario",
+                "name": "United Refrigeration Of Canada LTD",
+                "address" : "120 MILNER AVENUE, 1 SCARBOROUGH ON M1S 3R2", 
+                "phone": "416-292-3115",
+                "storeid": "184"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5451021  ,
+                    43.7989523
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F , 7am - 5pm",
+                "description": "Wholesaler in Vaughan, Ontario",
+                "name": "United Refrigeration Of Canada LTD",
+                "address" : "131-A CARLAUREN ROAD VAUGHAN ON L4L 8A8",
+                "phone": "905-850-8455",
+                "storeid": "185"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0474036,
+                    51.0034714
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 4:30pm, Sat 8am - 12pm",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "5720 BURBANK CRESCENT, SE CALGARY AB T2H 1Z6",
+                "phone": "403-259-6565",
+                "storeid": "186"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4503642 ,
+                    53.4932805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 4:30pm, Sat 8am - 12pm",
+                "description": "Plumbing supply store in Edmonton, Alberta",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "8330 MCINTYRE ROAD EMONTON AB T6E 6R6", 
+                "phone": "780-465-9176",
+                "storeid": "187"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.7886018 ,
+                    49.7210873999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Lethbridge, Alberta",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1601 36TH STREET NORTH LETHBRIDGE AB T1H 6X2",
+                "phone": "403-327-4587",
+                "storeid": "188"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.7093653 ,
+                    50.02285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Medicine Hat, Alberta",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1721 - 10TH AVENUE SOUTH WEST MEDICINE HAT AB T1A 7S1", 
+                "phone": "403-527-8851",
+                "storeid": "189"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.8151784 ,
+                    52.2910216999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 12pm, 1 - 4:30pm",
+                "description": "Bathroom supply store in Red Deer, Alberta",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "KITCHEN  AND  BATH CLASSICS RED DEER AB T4N 4E1",
+                "phone": "403-347-3747",
+                "storeid": "190"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9784699  ,
+                    49.2621524
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6am - 4:30pm",
+                "description": "Plumbing supply store in Burnaby, British Columbia",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "5950 KINGSLAND DRIVE BURNABY BC V5B 4W7",
+                "phone": "604-205-2900",
+                "storeid": "191"
+            }
+        } ,
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.766264 ,
+                    49.5181169
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 4:30pm",
+                "description": "Plumbing supply store in Cranbrook, British Columbia",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "421 SLATER ROAD CRANBROOK BC V1C 4Y5", 
+                "phone": "250-489-3384",
+                "storeid": "192"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.6908647 ,
+                    48.7603723999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 4pm",
+                "description": "Plumbing supply store in British Columbia, Canada",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "BAY B - 4995 POLKEY ROAD DUNCAN BC V9L 6W3",
+                "phone": "250-715-0823",
+                "storeid": "193"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.183116 ,
+                    49.900096
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 4:30pm",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1365 ERIN STREET WINNIPEG MB R3E 2S7", 
+                "phone": "204-775-9731",
+                "storeid": "194"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.6429863 ,
+                    45.9532195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "690 MCLEOD AVENUE FREDRICTON NB E3B 1V5",
+                "phone": "506-458-8275",
+                "storeid": "195"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.8356573 ,
+                    46.0795999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Moncton, New Brunswick",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1270 ST GEORGE BLVD MONCTON NB E1E 3S1",
+                "phone": "506-8538020",
+                "storeid": "196"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.0496756 ,
+                    45.2817356
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am - 5pm",
+                "description": "Plumbing supply store in Saint John, New Brunswick",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "45 HANOVER STREET SAINT JOHN NB E2L 3G1",
+                "phone": "506-634-3131",
+                "storeid": "197"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.8300695 ,
+                    47.531856
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Mount Pearl, Newfoundland and Labrador",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "9 COREY KING DRIVE MOUNT PEARL NL A1N 0A5",
+                "phone": "709-754-4213",
+                "storeid": "198"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.6170767,
+                    44.664448
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "6300 LADY HAMMOND ROAD HALIFAX NS B3K 2S2", 
+                "phone": "902-454-8320",
+                "storeid": "199"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8642679,
+                    44.1438659
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "Plumbing supply store",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "3-239  CHURCH STREET SOUTH ALLISTON ON L9R 2B7",
+                "phone": "705-434-2426",
+                "storeid": "200"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7044908  ,
+                    44.3634366
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Barrie, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "88 MORROW ROAD BARRIE ON L4N 3V8", 
+                "phone": "705-726-6775",
+                "storeid": "201"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2979929,
+                    45.041199
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm ",
+                "description": "Plumbing supply store in Bracebridge, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "2 MONICA LANE BRACEBRIDGE ON P1L 1P8",
+                "phone": "705-645-3061",
+                "storeid": "202"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7176855,
+                    43.686787
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6:30am - 5pm",
+                "description": "Plumbing supply store in Brampton, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "56 BRAMSTEELE RD 2A BRAMPTON ON L6W 3M7", 
+                "phone": "905-453-4374",
+                "storeid": "203"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2215437999999,
+                    43.1585297
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "349 HENRY STREET, UNIT B BRANTFORD ON N3S 7V6", 
+                "phone": "519-754-1128",
+                "storeid": "204"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7688127,
+                    43.3856103
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 6pm",
+                "description": "Heating equipment supplier in Burlington, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "5145 NORTH SERVICE ROAD BURLINGTON ON L7L 5H6",
+                "phone": "905-335-4232",
+                "storeid": "205"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.2152845,
+                    42.3910169
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 5pm",
+                "description": "Plumbing supply store in Chatham, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "350 RIVERVIEW DRIVE, PO BOX 847 CHATHAM ON N7M 5L1",
+                "phone": "519-354-5220",
+                "storeid": "206"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2335842999999 ,
+                    44.4934102
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Collingwood, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : " 100 HIGH STREET UNIT  2 COLLINGWOOD ON L9Y 4K2",
+                "phone": "705-445-2570",
+                "storeid": "207"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5238451,
+                    43.820232
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6:30am - 5pm",
+                "description": "Plumbing supply store in Vaughan, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1290 CREDITSTONE RD CONCORD ON L4K 5T7", 
+                "phone": "905-879-0034",
+                "storeid": "208"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.6911938,
+                    45.0436265
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "2905 MARLEAU STREET CORNWALL ON K6H 6B5",
+                "phone": "613-933-1076",
+                "storeid": "209"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.8496354,
+                    49.7983869
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "330 KENNEDY ROAD DRYDEN ON P8N 3E3",
+                "phone": "807-221-2008",
+                "storeid": "210"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5756206,
+                    43.7137983999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6am - 5pm",
+                "description": "Plumbing supply store in Toronto, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "210 REXDALE BLVD ETOBICOKE ON M9W 1R2", 
+                "phone": "416-746-2171",
+                "storeid": "211"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2911012,
+                    43.5468081
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Guelph, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "362 SILVERCREEK PARKWAY N, UNIT 1 GUELPH ON N1H 1E7", 
+                "phone": "519-821-4021",
+                "storeid": "212"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8610082,
+                    43.5526081999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6:30am - 5pm",
+                "description": "Plumbing supply store in Halton Hills, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "8039 5TH LINE HALTON HILLS ON L7G 0E2",
+                "phone": "905-875-5625",
+                "storeid": "213"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7691631,
+                    43.2429464
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "351 NASH ROAD N HAMILTON ON L8H 7P4", 
+                "phone": "905-578-4626",
+                "storeid": "214"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8316877 ,
+                    43.1891209
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Hamilton, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "123 DARTNALL ROAD HAMILTON ON L8W 3N1", 
+                "phone": "905-573-5100",
+                "storeid": "215"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2514257,
+                    45.3109809
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Huntsville, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "17 BICKLEY COUNTRY DRIVE HUNTSVILLE ON P1H 2P5",
+                "phone": "705-788-9120",
+                "storeid": "216"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.4900682999999,
+                    49.7885587
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 4:30pm",
+                "description": "Plumbing supply store in Kenora, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "UNIT 5, 1 DENNIS PLACE KENORA ON P9N 3X7",
+                "phone": "807-548-2177",
+                "storeid": "217"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4413443999999 ,
+                    43.4149965
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6am - 5pm",
+                "description": "Plumbing supply store in Kitchener, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "780 WILSON AVE KITCHENER ON N2C 0B8",
+                "phone": "519-741-4142",
+                "storeid": "218"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.2232255,
+                    42.9845076
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "760 LITTLE SIMCOE STREET LONDON ON N5V 1P4",
+                "phone": "519-433-0631",
+                "storeid": "219"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1980873999999,
+                    43.0059376
+                   
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "549 FIRST STREET LONDON ON N5V 1Z5",
+                "phone": "519-453-6900",
+                "storeid": "220"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.359008,
+                    43.833973
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Markham, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "95 SHIELDS COURT MARKHAM ON L3R 9T5",
+                "phone": "905-477-7974",
+                "storeid": "221"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8629177,
+                    44.7300322
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Midland, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "405-A CRANSTON CRESCENT MIDLAND ON L4R 4L1",
+                "phone": "705-526-3718",
+                "storeid": "222"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.640605,
+                    43.6284334
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6:30am - 5pm",
+                "description": "Plumbing supply store in Mississauga, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "5235 TIMBERLEA BLVD MISSISSAUGA ON L4W 2S3",
+                "phone": "905-602-0223",
+                "storeid": "223"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4291128999999,
+                    44.0806798
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Newmarket, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1206 RINGWELL DRIVE, UNIT 4 NEWMARKET ON L3Y 8V9",
+                "phone": "905-895-8751",
+                "storeid": "224"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.433104,
+                    46.312036
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6:30am - 5pm",
+                "description": "Plumbing supply store in North Bay, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1710 SEYMOUR STREET NORTH BAAY ON P1B 8K3",
+                "phone": "705-472-0350",
+                "storeid": "225"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1141945,
+                    43.9048989
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "80 CENTENNIAL ROAD ORANGEVILLE ON L9W 1P9",
+                "phone": "519-941-2915",
+                "storeid": "226"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4285852,
+                    44.5886796
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Orillia, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "25 ONTARIO STREET ORILLIA ON L3V 6H1",
+                "phone": "705-326-6477",
+                "storeid": "227"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8348135999999,
+                    43.8802306
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "730 WILSON ROAD S OSHAWA ON L1H 6E8",
+                "phone": "905-571-2063",
+                "storeid": "228"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6160649999999 ,
+                    45.4029983
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Ottawa, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "2495 LANCASTER RD OTTAWA ON K1B 4L5", 
+                "phone": "613-744-4124",
+                "storeid": "229"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9935390999999,
+                    44.5657517
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm ",
+                "description": "Plumbing supply store in Ontario, Canada",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "717936 HIGHWAY 6 OWEN SOUND ON N4K 5N7",
+                "phone": "519-376-9869",
+                "storeid": "230"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0413767,
+                    45.3615462
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Parry Sound, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "86 JOSEPH STREET PARRY SOUND ON P2A 2G5",
+                "phone": "705-746-9391",
+                "storeid": "231"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.1647306999999  ,
+                    45.8395871
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1375 PEMBROKE STREET PEMBROKE ON K8A 7A5",
+                "phone": "613-732-1190",
+                "storeid": "232"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.2964619,
+                    44.278943
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm ",
+                "description": "Plumbing supply store",
+                "name": "WOLSELEY CANADA INC.",
+                "address" :"700 NEAL DRIVE PETERBOROUGH ON K9J 6X7",
+                "phone": "705-742-7744",
+                "storeid": "233"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.3642599 ,
+                    42.9596916
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-Thursday 7am - 4:30pm, Friday 7-4pm ",
+                "description": "Industrial equipment supplier in Sarnia, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1231 CONFEDERATION STREET SARNIA ON N7S 4M7",
+                "phone": "519-336-0102",
+                "storeid": "234"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3342701  ,
+                    46.5377423
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Sault Ste. Marie, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "32 WHITE OAK DRIVE EAST SAULT STE MARIE ON P6B 4J8",
+                "phone": "705-949-5980",
+                "storeid": "235"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2752004 ,
+                    43.7609544
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 6pm",
+                "description": "Heating equipment supplier in Toronto, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "271 NANTUCKET BLVD SCARBOROUGH ON M1P 2P2",
+                "phone": "416-751-2000",
+                "storeid": "236"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2004355999999 ,
+                    43.1759014
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm ",
+                "description": "Plumber in St. Catharines, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" :"139 CUSHMAN ROAD ST CATHARINES ON L2M 6T2",
+                "phone": "905-641-2151",
+                "storeid": "237"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9355467,
+                    46.5035183
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Sudbury, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "420 SECOND AVE SUDBURY ON P3B 4A4",
+                "phone": "705-560-2112",
+                "storeid": "238"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2561312999999 ,
+                    48.4024258
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 4:30pm",
+                "description": "Plumbing supply store in Thunder Bay, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1149 ROLAND STREET THUNDER BAY ON P7B 5M5",
+                "phone": "807-622-5355",
+                "storeid": "239"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3326247,
+                    48.459667
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "7am - 5pm",
+                "description": "Plumbing supply store in Timmins, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "800 BIRCH STREET SOUTH TIMMINS ON P4N 7X8",
+                "phone": "705-267-1435",
+                "storeid": "240"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4531273 ,
+                    43.7078306
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "2885 DUFFERIN STREET TORONTO ON M6B 3S5",
+                "phone": "416-787-4242",
+                "storeid": "241"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3635228,
+                    43.6461632
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "200 QUEENs QUAY E, UNIT 3 TORONTO ON M5A 4K9",
+                "phone": "416-703-5122",
+                "storeid": "242"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5416401 ,
+                    43.6168674
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6:30am - 5pm",
+                "description": "Plumbing supply store in Toronto, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1581 QUEENSWAY TORONTO ON M8Z 5W9",
+                "phone": "416-252-5628",
+                "storeid": "243"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4990363,
+                    43.835762
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "635 WESTBURNE DRIVE VAUGHAN ON L4K 4T6",
+                "phone": "905-879-0034",
+                "storeid": "244"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9655298999999,
+                    42.2810598
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Windsor, Ontario",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "3585 RHODES DRIVE WINDSOR ON N8W 5B3",
+                "phone": "519-974-4422",
+                "storeid": "245"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.3911476 ,
+                    50.2092418999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7:30am - 12pm, 1pm - 4:30pm",
+                "description": "Plumbing supply store in Sept-Îles, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "5 RUE REGNEAU SEPT ILES QC G4R 3R4",
+                "phone": "418-968-9955",
+                "storeid": "246"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.584425,
+                    45.6111852
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6am - 5pm",
+                "description": "Plumbing supply store in Montreal, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "10040 BOUL LOUIS-H LAFONTAINE ANJOU QC H1J 2T3",
+                "phone": "514-329-5353",
+                "storeid": "247"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1149363 ,
+                    48.3978549
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 8am- 12pm, 1 - 5pm  ",
+                "description": "Heating equipment supplier in Saguenay, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1910 RUE OUTARDE CHICOUTIMI QC G7K 1H1", 
+                "phone": "418-543-6531",
+                "storeid": "248"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7061905,
+                    45.4910169
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 4:30pm",
+                "description": "Plumbing supply store in Gatineau, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "162 DE VARENNES ST GATINEAU QC J8T 8G4",
+                "phone": "819-246-5590",
+                "storeid": "249"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.7453288 ,
+                    45.3925742
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm ",
+                "description": "Plumbing supply store in Granby, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "554 MATTON GRANBY QC J2G 9G5",
+                "phone": "450-375-8863",
+                "storeid": "250"
+            }
+        },
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4521699 ,
+                    46.0129279
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6am - 5pm",
+                "description": "Plumbing supply store in Joliette, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1302 DE LANAUDIERE JOLIETTE QC J6E 3P2",
+                "phone": "450-759-4311",
+                "storeid": "251"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7837469 ,
+                    45.5669125
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6am - 6pm",
+                "description": "Plumbing supply store in Laval, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "4200, RUE LOUIS B MAYER LAVAL QC H7P 0G1",
+                "phone": "450-680-4040",
+                "storeid": "252"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4550766999999 ,
+                    45.5721616
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm ",
+                "description": "Plumbing supply store in Longueuil, Quebec",
+                "address" : "860 rue Jean-Neveu LONGUEUIL QC J4G 2M1",
+                "name": "WOLSELEY CANADA INC.",
+                "phone": "450-674-1511",
+                "storeid": "253"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5521764,
+                    45.4876102
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6:30am - 4:30pm",
+                "description": "Plumbing supply store in Montreal, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "SUCCURSALE MILL MONTREAL QC H3K 2B4",
+                "phone": "514-935-5331",
+                "storeid": "254"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5100552 ,
+                    48.4577882
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Rimouski, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "351 DES CHEVALIERS RIMOUSKI QC G5L 1X3",
+                "phone": "418-722-7944",
+                "storeid": "255"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0216427 ,
+                    48.258984
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7:30am - 4:30pm",
+                "description": "Plumbing supply store in Rouyn-Noranda, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "IB WOLSELEY (X) REGION DU QC ROUYN-NORANDA QC J9X 7C2",
+                "phone": "819-764-6776",
+                "storeid": "256"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.9688475   ,
+                    45.3936418
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Sherbrooke, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "230 LEGER SHERBROOKE QC J1L 1M1",
+                "phone": "819-562-2662",
+                "storeid": "257"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6541343,
+                    45.9739573
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Saint-Georges, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "SUCCURSALE ST-GEORGES (3) ST GEORGES DE BEAUCE QC G5Y 8G2",
+                "phone": "418-228-6307",
+                "storeid": "258"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2704962 ,
+                    46.7978536
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Heating equipment supplier in Quebec City, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1775 RUE LEON HARMEL STE FOY QC G1N 4K4",
+                "phone": "418-687-3036",
+                "storeid": "259"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0071634  ,
+                    45.7962709
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 6am - 4:30pm",
+                "description": "Plumbing supply store in Saint-Jérôme, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "SUCCURSALE ST-JEROME ST-JEROME QC J7Y 1M8",
+                "phone": "450-436-5550",
+                "storeid": "260"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.5686092999999 ,
+                    46.3373206
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Plumbing supply store in Trois-Rivières, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "2325 RU GIRARD TROIS RIVIERES QC G8Z 2M3", 
+                "phone": "819-378-4076",
+                "storeid": "261"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.7939806999999,
+                    48.1142458
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7:30am - 4:30pm",
+                "description": "Plumbing supply store in Val-d'Or, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1200 RUE LEO FOURNIER VAL D&apos;OR QC J9P 6X8",
+                "phone": "819-825-6216",
+                "storeid": "262"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0720558  ,
+                    45.3930166
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F , 7am - 5pm",
+                "description": "Plumbing supply store in Vaudreuil-Dorion, Quebec",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "SUCCURSALE VAUDREUIL VAUDREUIL QC J7V 8P2",
+                "phone": "450-455-4141",
+                "storeid": "263"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2796276 ,
+                    46.8267524
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "Distribution service in Quebec City, Quebec",
+                "name": "DESCAIR INC.",
+                "address" : "275 Rue Métivier, Québec, QC G1M 3X8, Canada",
+                "phone": "418-681-2333",
+                "storeid": "264"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.3767324,
+                    48.450385
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Air Conditioning",
+                "hours": "",
+                "description": "",
+                "name": "ECCO HEATING PRODUCTS.",
+                "address" : "9A-555 Ardersier Rd Victoria, BC, V8Z 1C8 Canada",
+                "phone": "250-361-3392",
+                "storeid": "265"
+            }
+        }, 
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4831728 ,
+                    43.6844139
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 9am - 5pm",
+                "description": "",
+                "name": "NAILOR INDUSTRIES INC",
+                "address" : "971 WESTON ROAD TORONTO ON M6N 3R4",
+                "phone": "416-762-6482",
+                "storeid": "266"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5658771,
+                    44.2614125
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "NOBLE TRADE",
+                "address" : "605 O'Connor Dr Kingston, Ontario - K7P 1J9",
+                "phone": "613-384-2022",
+                "storeid": "267"
+            }
+        },
+
+
+{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.5171708 ,
+                    53.5486394
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "Soper's Supply",
+                "address" : "10519 - 114 STREET EDMONTON AB T5H 3J6",
+                "phone": "780-423-4066",
+                "storeid": "268"
+            }
+        } , 
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4162118 ,
+                    44.1835161
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "",
+                "name": "Tackaberry Heating Refrigertion Supplies",
+                "address" : "339 Bell Blvd BELLEVILLE ON K8P 5H7",
+                "phone": "613-967-2884",
+                "storeid": "269"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.7415956999999 ,
+                    45.02299
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "Tackaberry Refrigeration",
+                "address" : "650 Cumberland Street, Cornwall, Ontario Ontario Canada K6J 4J5",
+                "phone": "613-936-2219",
+                "storeid": "270"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7701445 ,
+                    44.6258101
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "Tackaberry Heating Refrigertion Supplies",
+                "address" : "4504 Orchard St Elizabethtown, ON ON K6T 1A9",
+                "phone": "613-324-6564",
+                "storeid": "271"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5003617 ,
+                    44.265464
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "",
+                "description": "",
+                "name": "Tackaberry Heating Refrigertion Supplies",
+                "address" : "60 Dalton Ave Kingston ON K7K 6C3",
+                "phone": "613-549-3320",
+                "storeid": "272"
+            }
+        }, 
+
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6957316 ,
+                    44.6225025
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "hours": "M-F, 7am - 5pm",
+                "description": "",
+                "name": "WOLSELEY CANADA INC.",
+                "address" : "1415 CALIFORNIA AVENUE, BOX 7 BROCKVILLE ON K6V 5T7",
+                "phone": "613-345-1345",
+                "storeid": "273"
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+       
+       
+
+       
+    ]
+}
