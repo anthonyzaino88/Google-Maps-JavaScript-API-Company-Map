@@ -1,12 +1,12 @@
 function initMap() {
   // This function initializes the map and sets up the Google Maps API. It also fetches data and calls the `displayStores` function to display store data on the map and in a list.
   const map = new google.maps.Map(document.getElementById("map"), {
-    mapId: "51fe493a93d0904e",
+    mapId: "Your Map ID",
     center: { lat: 53.818946, lng: -88.831067 },
     zoom: 4,
   });
 
-  const apiKey = "AIzaSyBVLiZWhZT-IAkAer9aj3wo98GYLWT3iv4";
+  const apiKey = Your API;
   const infoWindow = new google.maps.InfoWindow();
   const storesList = document.getElementById("reps-list");
   let zipCode = null;
