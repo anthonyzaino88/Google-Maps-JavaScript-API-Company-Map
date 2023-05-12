@@ -34,8 +34,15 @@ function initMap() {
         map: map,
       });
 
+      const repsListWrapper = document.querySelector(".reps-list-wrapper");
+      const mapWrapper = document.querySelector(".map-wrapper");
+      const searchContainer = document.querySelector("#search-container");
+
       marker.addListener("click", () => {
         displayStoreInfo(feature, infoWindow, map);
+        mapWrapper.classList.toggle("map-wrapper--expanded");
+        repsListWrapper.classList.toggle("hidden");
+        searchContainer.style.display = "none";
       });
 
       return marker;
@@ -85,8 +92,15 @@ function initMap() {
 
       // Add a click event listener to each store card that displays information about the store
 
+      const repsListWrapper = document.querySelector(".reps-list-wrapper");
+      const mapWrapper = document.querySelector(".map-wrapper");
+      const searchContainer = document.querySelector("div#search-container");
+
       Div.addEventListener("click", () => {
         displayStoreInfo(feature, infoWindow, map);
+        mapWrapper.classList.toggle("map-wrapper--expanded");
+        repsListWrapper.classList.toggle("hidden");
+        searchContainer.style.display = "none";
       });
 
       storesList.appendChild(Div);
@@ -100,26 +114,27 @@ function initMap() {
     };
     const address = feature.properties.address;
     const name = feature.properties.name;
+
     const content = `
-    <div class="marker-card">
-      <h2 class="marker-card__title">${name}</h2>
-      <div class="marker-card__info">
-        <div class="marker-card__icon"><i class="fas fa-clock"></i></div>
-        <p class="marker-card__text">${
-          feature.properties.hours || "Call for more information"
-        }</p>
+      <div class="marker-card">
+        <h2 class="marker-card__title">${name}</h2>
+        <div class="marker-card__info">
+          <div class="marker-card__icon"><i class="fas fa-clock"></i></div>
+          <p class="marker-card__text">${
+            feature.properties.hours || "Call for more information"
+          }</p>
+        </div>
+        <div class="marker-card__info">
+          <div class="marker-card__icon"><i class="fas fa-map-marker-alt"></i></div>
+          <p class="marker-card__text">${address}</p>
+        </div>
+        <div class="marker-card__info">
+          <div class="marker-card__icon"><i class="fas fa-phone"></i></div>
+          <p class="marker-card__text">${feature.properties.phone}</p>
+        </div>
+        <button id="directions-btn">Get Directions</button>
       </div>
-      <div class="marker-card__info">
-        <div class="marker-card__icon"><i class="fas fa-map-marker-alt"></i></div>
-        <p class="marker-card__text">${address}</p>
-      </div>
-      <div class="marker-card__info">
-        <div class="marker-card__icon"><i class="fas fa-phone"></i></div>
-        <p class="marker-card__text">${feature.properties.phone}</p>
-      </div>
-      <button id="directions-btn">Get Directions</button>
-    </div>
-  `;
+    `;
 
     infoWindow.setContent(content);
     infoWindow.setPosition(position);
@@ -128,6 +143,34 @@ function initMap() {
       pixelOffset: new google.maps.Size(0, 100),
     });
     infoWindow.open(map);
+
+    google.maps.event.addListener(infoWindow, "closeclick", () => {
+      const repsListWrapper = document.querySelector(".reps-list-wrapper");
+      const mapWrapper = document.querySelector(".map-wrapper--expanded");
+      const searchContainer = document.querySelector("#search-container");
+      repsListWrapper.classList.remove("hidden");
+      searchContainer.style.display = "flex";
+      map.setCenter({ lat: 52.5790893, lng: -91.1316417 });
+      map.setZoom(4);
+      const storesList = document.getElementById("reps-list");
+      const cards = storesList.querySelectorAll(".card");
+      cards.forEach((card) => {
+        card.style.opacity = 1;
+        card.classList.remove("active");
+      });
+      storesList.scrollLeft = 0;
+      mapWrapper.classList.remove("map-wrapper--expanded"); // remove the class from the mapWrapper element
+    });
+
+    // Add event listener to infoWindow's domready event to access the directions button
+    google.maps.event.addListener(infoWindow, "domready", () => {
+      const directionsBtn = document.getElementById("directions-btn");
+      directionsBtn.addEventListener("click", () => {
+        const destination = encodeURI(address);
+        const url = `https://www.google.com/maps/dir/?api=1&destination=${destination}`;
+        window.open(url, "_blank");
+      });
+    });
 
     google.maps.event.addListener(infoWindow, "closeclick", () => {
       map.setCenter({ lat: 52.5790893, lng: -91.1316417 });
@@ -140,6 +183,7 @@ function initMap() {
       });
       storesList.scrollLeft = 0;
     });
+
     // Scroll to the card that corresponds to the clicked marker
     const storesList = document.getElementById("reps-list");
     const cards = storesList.querySelectorAll(".card");
@@ -220,6 +264,7 @@ function initMap() {
         });
         setTimeout(() => marker.setAnimation(null), 2000);
         infoWindow.close();
+
         searchStoresNearby(position);
       } else {
         alert("Geocode was not successful for the following reason: " + status);

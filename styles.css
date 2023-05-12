@@ -6,15 +6,13 @@ body {
 }
 
 main {
-  max-width: 1200px; /* Adjust to your desired width */
-  margin: 0 auto; /* Center the element horizontally */
-  padding: 0 15px; /* Add some padding to the sides */
-  height: 100vh; /* Make the container take up full height of viewport */
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: repeat(4, auto);
-  margin-top: 2rem;
-  gap: 0.25rem;
+  grid-template-rows: auto 1fr 1fr 1fr;
+  height: 100vh;
 }
 
 .list-top-section {
@@ -72,8 +70,12 @@ div#search-container {
   justify-content: start;
 }
 
+.reps-list-wrapper.hidden {
+  display: none;
+}
+
 .card {
-  min-width: 300px;
+  min-width: 350px;
   height: 225px;
   border-radius: 8px;
   background-color: transparent;
@@ -110,6 +112,13 @@ div#search-container {
   grid-column: 1 / span 6;
   height: 400px;
   grid-row: 2;
+  transition: all 0.5s ease;
+}
+
+.map-wrapper--expanded {
+  grid-column: 1 / span 12;
+  height: 100vh;
+  grid-row: 1;
 }
 
 .marker-card {
@@ -146,20 +155,17 @@ div#search-container {
 .marker-card h2,
 .marker-card__title {
   color: #d9534f;
-  margin-bottom: 10px;
-}
-
-.marker-card__title {
-  color: #d9534f;
-  margin-bottom: 2px;
-  font-weight: 800;
+  margin-bottom: 5px;
 }
 
 .card-description {
   font-size: medium;
   color: rgb(138, 138, 138);
-  margin-bottom: 5px;
-  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.card-body {
+  padding: 0.25rem;
 }
 
 .card-details i {
